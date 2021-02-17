@@ -5,4 +5,6 @@ if true:
     
 if false
     print("Fałsz")
+    
+ print("Hello")
    
